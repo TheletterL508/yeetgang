@@ -1,29 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<link href='https://fonts.googleapis.com/css?family=Permanent Marker' rel='stylesheet'>
 <style>
-body {
-  background-color: black;
-  text-align: center;
-  color: white;
-  font-family: Arial, Helvetica, sans-serif;
+h1 {
+    font-family: 'Permanent Marker';font-size: 22px;
 }
 </style>
 </head>
 <body>
 
-<h1>The Legend Of Bongo Scout</h1>
-<p>The bongo scout is quite a rare creature.</p>
-<p>Many people go their entire lives without seeing a bongo scout.</p>
-<p> the bongo scout is quite admirable.
-it can bongo all day and can play the bongo's until it falls asleep for about 6 hours until it wakes up.
-it starts playing bongo's a few mintues BEFORE waking up and then doesnt stop until it falls asleep. <p/>
-<p> many bongo musicians try to be like the bongo scout, but these people are no different than furries. <p/>
-<p> since the bongo scout is considered an animal with a slightly different body.<p/>
-<p> the bongo scout eats music and drinks music
-which is why they live without eating like other animals <p/>
-<img src="https://wiki.teamfortress.com/w/images/thumb/7/79/Taunt_Runner%27s_Rhythm.png/250px-Taunt_Runner%27s_Rhythm.png" alt="Avatar" style="width:200px">
+<font size="6"><h1>Permanent Marker</h1></font>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+<p>123456790</p>
+<p>ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
+<p>abcdefghijklmnopqrstuvwxyz</p>
 
 </body>
 </html>
